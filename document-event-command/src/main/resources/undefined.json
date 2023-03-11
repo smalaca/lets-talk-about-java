@@ -1,0 +1,16 @@
+{
+  "productId": "1234567890",
+  "category": "book",
+  "title": "Software Mistakes and Tradeoffs",
+  "ISBN": "9781617299209",
+  "authors": [
+    "Tomasz Lelek",
+    "Jon Skeet"
+  ],
+  "description": "Software Mistakes and Tradeoffs explores real-world scenarios where the wrong tradeoff decisions were made and illuminates what could have been done differently.",
+  "price": {
+    "value": "32.99",
+    "currency": "USD"
+  },
+  "pages": 416
+}
